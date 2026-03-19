@@ -13,7 +13,7 @@ echo "---------------------------------------------------------------"
 get-debloated-pkgs --add-common --prefer-nano ffmpeg-mini
 
 # Comment this out if you need an AUR package
-make-aur-package Plex-Desktop
+make-aur-package plex-desktop
 
 # If the application needs to be manually built that has to be done down here
 
