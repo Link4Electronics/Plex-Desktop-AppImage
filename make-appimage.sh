@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/tv.plex.PlexDesktop.desktop
 export DEPLOY_QT=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/Plex /opt/plex-desktop/plex-bin
+quick-sharun /usr/bin/Plex /opt/plex-desktop/bin/Plex
 
 # Additional changes can be done in between here
 
